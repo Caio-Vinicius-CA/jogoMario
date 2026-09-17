@@ -1,6 +1,8 @@
 # jogoMario
 
+
 ## Integrantes
-Nome: Caio Vinícius
-Matrícula: 24010151
-Papel: FullStack Developer
+| Nome                  | Matrícula   | Papel                                                  |
+|-----------------------|-------------|--------------------------------------------------------|
+| Caio Vinícius Amaral  | 24010151    | Scrum Master / Documentador / Desenvolvedor / Testador |
+
