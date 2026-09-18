@@ -20,7 +20,7 @@ const loop = setInterval(() => {
         mario.style.bottom = `${marioPosition}px`;
 
         // Caminho atualizado para a imagem local de Game Over
-        mario.src = './images/game-over.png';
+        mario.src = '../images/game-over.png';
         mario.style.width = '75px';
         mario.style.marginLeft = '50px';
 
