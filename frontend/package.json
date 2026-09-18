@@ -1,0 +1,10 @@
+{
+  "name": "jogo-mario",
+  "version": "1.0.0",
+  "description": "Jogo Mario - Front-End",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {}
+}
